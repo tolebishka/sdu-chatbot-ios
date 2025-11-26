@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BASE_URL</key>
+	<string>https://chat-back.sdu.edu.kz/api</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>sduchat</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>sduchat</string>
+			</array>
+		</dict>
+	</array>
+	<key>OAUTH_START_URL</key>
+	<string>$(OAUTH_START_URL)</string>
+	<key>STATIC_BEARER</key>
+	<string>$(STATIC_BEARER)</string>
+	<key>URL_SCHEME</key>
+	<string>$(URL_SCHEME)</string>
+</dict>
+</plist>

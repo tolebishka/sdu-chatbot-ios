@@ -1,0 +1,3 @@
+BASE_URL = https://chat-back.sdu.edu.kz/api/chats/send-message
+OAUTH_START_URL = https://chat.sdu.edu.kz/api/auth/google/start
+URL_SCHEME = sduchat

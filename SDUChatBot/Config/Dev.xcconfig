@@ -1,0 +1,4 @@
+BASE_URL = https://chat-back.sdu.edu.kz/api/chats/send-message
+OAUTH_START_URL = http://localhost:8080/api/auth/google/start
+URL_SCHEME = sduchat
+STATIC_BEARER = Bearer eyJhbGciOiJIUzI1NiJ9.eyJmaXJzdE5hbWUiOiJUb2xlYmkiLCJsYXN0TmFtZSI6IkFpdGVub3YiLCJyb2xlcyI6IlVTRVIiLCJpZCI6MjcsImVtYWlsIjoiMjMwMTAzMTQ0QHNkdS5lZHUua3oiLCJzdWIiOiIyMzAxMDMxNDRAc2R1LmVkdS5reiIsImlhdCI6MTc2Mzk4OTIxMCwiZXhwIjoxNzY0MDEwODEwfQ.Tgw9oUpOehI72SPja4V4Q4t8gxq74czrHeKsPBlSvdc
